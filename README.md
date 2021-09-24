@@ -6,13 +6,15 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JVsVieira&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 <div style="display: inline_block"><br>
+  <img align="center" alt="JvVieira-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="JVPython" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="JvHTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="JvPycharm" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
   <img align="center" alt="JvLinux" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
   <img align="center" alt="JvDjango" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" />
-   <img align="right" alt="JvVieira GIF" height="150" width="150" <img src="https://i.picasion.com/pic91/27df44dbffcab90c7655398f64cbf05d.gif" width="300" height="300" border="0" 
-  
+  <img align="right" alt="JvVieira GIF" height="150" width="150" <img src="https://i.picasion.com/pic91/bd27721fcf0dc940c06bd955c123f6e3.gif" width="300" height="300" border="0"
+</div>
+ 
 </div>
   
   ##
