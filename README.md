@@ -1,11 +1,11 @@
-### Hello World! Sou o João Vieira <br/>
+### Hello World! I'm João 🐱‍👤<br/>
 <!DOCTYPE html>
 <html lang="pt-br">
   <head>
     <meta charset="UTF-8">
     <meta name="author" content="João">
   </head>
-  <body><div>
+  <body><div align="center">
     <h1>Front-end Developer 💻</h1>
   </div>
     <div>
