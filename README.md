@@ -6,7 +6,7 @@
     <meta name="author" content="João">
   </head>
   <body><div align="center">
-    <h1>Front-end Developer 💻</h1>
+    <h1>WEB Developer 💻</h1>
   </div>
     <div>
       <h3><ul>
