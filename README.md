@@ -24,24 +24,31 @@ I'm passionate about software development and gaming, with a solid background in
 ## How to Contact Me
 You can find me on [LinkedIn](https://www.linkedin.com/in/joaovs-vieira). I'm always up for discussions on technology, games, or anything else!
 
-## Fun
+## Fun / Fatos Engraçados
 When I'm not coding or managing infrastructure, I'm exploring new challenges. Check out what I've recently discovered:
 
 ```csharp
-// Random Discovery of the Day
-public void RandomDiscoveryOfTheDay()
+using System;
+
+class Program
 {
-    string[] interestingFacts = new string[]
+    static void Main(string[] args)
     {
-        "Learned to play the guitar on my own during the quarantine.",
-        "Achieved the title of 'Family Chess Champion' in a heated match.",
-        "Developed a chocolate cake recipe that's a culinary masterpiece.",
-        "Tried to explain programming concepts to my cat, who probably understood nothing.",
-        "Unveiled a new magic trick that amazed my friends in our last virtual meetup.",
-    };
+        RandomDiscoveryOfTheDay();
+    }
 
-    string discovery = interestingFacts[new Random().Next(interestingFacts.Length)];
-    Console.WriteLine($"Discovery of the Day: {discovery}");
+    public static void RandomDiscoveryOfTheDay()
+    {
+        string[] interestingFacts = new string[]
+        {
+            "Learned to play the guitar on my own during the quarantine.",
+            "Achieved the title of 'Family Chess Champion' in a heated match.",
+            "Developed a chocolate cake recipe that's a culinary masterpiece.",
+            "Tried to explain programming concepts to my cat, who probably understood nothing.",
+            "Unveiled a new magic trick that amazed my friends in our last virtual meetup.",
+        };
+
+        string discovery = interestingFacts[new Random().Next(interestingFacts.Length)];
+        Console.WriteLine($"Discovery of the Day: {discovery}");
+    }
 }
-
-RandomDiscoveryOfTheDay();
