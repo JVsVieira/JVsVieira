@@ -1,4 +1,4 @@
-# Hello, I'm a Software Engineer and DevOps Engineer 👋
+# Software Engineer and DevOps Engineer {
 
 ## About Me
 I'm passionate about software development and gaming, with a solid background in .NET, ASP.NET, and C#. Currently, I work as a Software Engineer and also function as a DevOps Engineer, combining my technical skills to deliver high-performance solutions.
@@ -32,6 +32,8 @@ You can find me on [LinkedIn](https://www.linkedin.com/in/joaovs-vieira). I'm al
 
 ## Fun / Fatos Engraçados
 When I'm not coding or managing infrastructure, I'm exploring new challenges. Check out what I've recently discovered:
+
+}
 
 ```csharp
 using System;
