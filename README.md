@@ -18,6 +18,10 @@ I'm passionate about software development and gaming, with a solid background in
 - [CMS/Front&Web API](https://relatoconfidencial.com.br/ouvidoriaeletro): Create for substitute the SISGEDD Project, the CMS&WebAPI have a new concept for optimize the coms with User and UX.
 
 ## Experience
+
+- **Minsait an Indra Company** (2024 - moment) - Software Enginner
+  - 
+
 - **Deloitte Touche Tohmatsu** (2022 - 01/2024) - Software Enginner PL
   - Software Engineer with experience in ASP.NET development. I worked on applications for more than 100 multinational companies, with around 1000 to 5000 views daily. I have knowledge in project management with Azure DevOps, being one of the winners of the MICROSOFT DevOps Challenge, CI/CD automation, RESTful API, MVC architecture, JavaScript and its frameworks, such as Angular. Solid experience with databases, using MSSQL.
  
