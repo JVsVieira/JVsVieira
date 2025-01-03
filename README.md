@@ -4,7 +4,7 @@
 I'm passionate about software development and gaming, with a solid background in .NET, ASP.NET, and C#. Currently, I work as a Software Engineer and also function as a DevOps Engineer, combining my technical skills to deliver high-performance solutions.
 
 ## Technologies
-- Languages: C#, ASP.NET, JS, Python
+- Languages: C#, ASP.NET, PHP, JS, Python (tensorflow)
 - DevOps: CI/CD, Docker, Kubernetes, Azure Devops
 - Front-end: Angular, NodeJs, jQuery
 - Back-end: ASP.NET Core, Web API, Swagger
@@ -39,28 +39,71 @@ When I'm not coding or managing infrastructure, I'm exploring new challenges. Ch
 
 }
 
-```csharp
-using System;
+//RODEM ISSO NO CONSOLE E VEJAM MEU PODER!
 
-class Program
-{
-    static void Main(string[] args)
-    {
-        RandomDiscoveryOfTheDay();
-    }
+const frames = [
+  `
+     ~~~ CAVERNA ~~~
 
-    public static void RandomDiscoveryOfTheDay()
-    {
-        string[] interestingFacts = new string[]
-        {
-            "Learned to play the guitar on my own during the quarantine.",
-            "Achieved the title of 'Family Chess Champion' in a heated match.",
-            "Developed a chocolate cake recipe that's a culinary masterpiece.",
-            "Tried to explain programming concepts to my cat, who probably understood nothing.",
-            "Unveiled a new magic trick that amazed my friends in our last virtual meetup.",
-        };
+               ______
+             /      \\
+            /        \\
+           |   Cave   |
+           |          |
+           |__________|
+               |  |
+               |__|
 
-        string discovery = interestingFacts[new Random().Next(interestingFacts.Length)];
-        Console.WriteLine($"Discovery of the Day: {discovery}");
-    }
-}
+  (O herói da minha realidade (eu) está prestes a entrar...)
+  `,
+
+  `
+     ~~~ ENTRANDO NA CAVERNA ~~~
+
+     (o_o)  < Entrando...
+       /|
+       / \\
+
+               ______
+             /      \\
+            /        \\
+           |   Cave   |
+           |          |
+           |__________|
+               |  |
+               |__|
+  `,
+
+  `
+     ~~~ ACHOU A ESPADA ~~~
+
+       (o_o)
+         /|\\
+         / \\
+  
+    "Ei! Uma espada!"
+     O==[=====>  (Espada)
+  `,
+
+  `
+     ~~~ VITÓRIA! ~~~
+
+       ( ^_^ )7 
+         /|\\
+         / \\
+
+   O==[=====>   (A espada foi erguida!)
+   "Eu a ergui! POWEEEEER!"
+  `
+];
+
+let index = 0;
+const interval = setInterval(() => {
+  console.clear();
+  console.log(frames[index]);
+  index++;
+  if (index === frames.length) {
+    index = 0;
+  }
+}, 2000);
+
