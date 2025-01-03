@@ -34,10 +34,7 @@ I'm passionate about software development and gaming, with a solid background in
 ## How to Contact Me
 You can find me on [LinkedIn](https://www.linkedin.com/in/joaovs-vieira). I'm always up for discussions on technology, games, or anything else!
 
-## Fun / Fatos Engraçados
-When I'm not coding or managing infrastructure, I'm exploring new challenges. Check out what I've recently discovered:
-
-}
+## Fun
 
 //RODEM ISSO NO CONSOLE E VEJAM MEU PODER!
 
