@@ -1,7 +1,7 @@
 # Software Engineer and DevOps Engineer {
 
 ## About Me
-I'm passionate about software development and gaming, with a solid background in .NET, ASP.NET, and C#. Currently, I work as a Software Engineer and also function as a DevOps Engineer, combining my technical skills to deliver high-performance solutions.
+I'm passionate about software development and gaming, with a solid background in .NET, ASP.NET, Laravel. Currently, I work as a Software Engineer and also function as a DevOps Engineer, combining my technical skills to deliver high-performance solutions.
 
 ## Technologies
 - Languages: C#, ASP.NET, PHP, JS, Python (tensorflow)
