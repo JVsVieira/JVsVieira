@@ -11,7 +11,7 @@ I'm passionate about software development and gaming, with a solid background in
 - Security: Fortify
 - Design: Figma, Adobe XD
 - Architecture: MVC / Draw: Bizagi 
-- Database: SQL Server, MSSQL
+- Database: MSSQL, POSTGRES, MYSQL
 
 ## My Projects
 - [SISGEDD](https://etica.deloitte.com.br/hotsite/): SISGEDD is a web solution that helps monitor the conduct of companies and their stakeholders, allowing anyone to report atmospheric conduct and keep their identity preserved. Thus contributing to an integrated cooperative environment.
