@@ -1,4 +1,4 @@
-# Software Engineer and DevOps Engineer {
+# public Software Engineer and DevOps Engineer {
 
 ## About Me
 I'm passionate about software development and gaming, with a solid background in .NET, ASP.NET, Laravel. Currently, I work as a Software Engineer and also function as a DevOps Engineer, combining my technical skills to deliver high-performance solutions.
